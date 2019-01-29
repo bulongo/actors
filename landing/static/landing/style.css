@@ -1,0 +1,45 @@
+body {
+  padding: 0;
+  margin:auto;
+}
+
+.container {
+  background-image: url("../bridgeTwoEdited.jpg");
+  background-size:cover;
+  padding: 20px;
+  height: 600px;
+
+}
+
+header h1 {
+  float: left;
+}
+
+header li a {
+  text-decoration: none;
+  color: orange;
+}
+
+header li {
+  list-style: none;
+  float: left;
+  padding: 10px;
+  margin-top: 25px;
+}
+
+header ul {
+  float: right;
+}
+
+.yo {
+  width: 30%;
+  float: right;
+}
+
+.clearer {
+  clear: both;
+}
+
+.movie {
+  width: 50px;
+}
